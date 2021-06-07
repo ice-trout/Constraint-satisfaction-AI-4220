@@ -35,4 +35,5 @@ Kootenai</br>
 BearLake</br>
 
 <h1>Visualization:</h1>
-idaho1883 Map.jpg
+<img src="https://raw.githubusercontent.com/ice-trout/Constraint-satisfaction-AI-4220/main/idaho1883%20Map.jpg" height="600">
+<img src="https://github.com/ice-trout/Constraint-satisfaction-AI-4220/blob/main/AI-map-coloring.png" height="600">
