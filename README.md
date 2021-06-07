@@ -35,3 +35,4 @@ Kootenai</br>
 BearLake</br>
 
 <h1>Visualization:</h1>
+idaho1883 Map.jpg
